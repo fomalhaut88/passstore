@@ -1,0 +1,1 @@
+pyinstaller passstore.py --onefile
