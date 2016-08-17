@@ -1,5 +1,4 @@
 *~
 *.pyc
 
-build/*
-passstore.spec
+build
